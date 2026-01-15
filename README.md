@@ -29,10 +29,9 @@ El objetivo es demostrar habilidades en gestión de datos, construcción de indi
 ---
 ## Herramientas utilizadas
 - Excel
-- Googles forms, Kobo,
+- Googles forms, Kobo
 - Marckdown / Github para documentación
 - Microsoft 360° (Sharepoints)
 - Jira, asana
+- SQL
   
-
-Portafolio with MERL (Monitoring, Evaluation, Research and Learning), showcasing data organization, indicator tracking, basic analysis and reporting
